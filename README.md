@@ -22,6 +22,9 @@ approach may vary for each new product so we need to learn quickly what works an
 doesn’t.
 
 Some of pic from the presentation:
+
+The full code and data cleansing in the file "notebook.ipynb"
+
 ![image](https://github.com/JuanF3/Revenue-Analysis/assets/60745140/cce81a5b-0fad-4eca-b4e7-447824a21b96)
 
 ![image](https://github.com/JuanF3/Revenue-Analysis/assets/60745140/c8d506c7-8d1a-4359-a2d4-baf6a081dbc3)
